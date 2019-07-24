@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.7d198186.chunk.css",
-    "main.js": "/static/js/main.d9a63978.chunk.js",
-    "main.js.map": "/static/js/main.d9a63978.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.374d8ee3.chunk.js": "/static/js/2.374d8ee3.chunk.js",
-    "static/js/2.374d8ee3.chunk.js.map": "/static/js/2.374d8ee3.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.1713bc5fa1d17abc86317b518d96d975.js": "/precache-manifest.1713bc5fa1d17abc86317b518d96d975.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.7d198186.chunk.css.map": "/static/css/main.7d198186.chunk.css.map"
+    "main.css": "/smilecj521.reduxt/static/css/main.7d198186.chunk.css",
+    "main.js": "/smilecj521.reduxt/static/js/main.797c642c.chunk.js",
+    "main.js.map": "/smilecj521.reduxt/static/js/main.797c642c.chunk.js.map",
+    "runtime~main.js": "/smilecj521.reduxt/static/js/runtime~main.7ec4e7cc.js",
+    "runtime~main.js.map": "/smilecj521.reduxt/static/js/runtime~main.7ec4e7cc.js.map",
+    "static/js/2.374d8ee3.chunk.js": "/smilecj521.reduxt/static/js/2.374d8ee3.chunk.js",
+    "static/js/2.374d8ee3.chunk.js.map": "/smilecj521.reduxt/static/js/2.374d8ee3.chunk.js.map",
+    "index.html": "/smilecj521.reduxt/index.html",
+    "precache-manifest.4475d17b807e1f5bf65cf7c0f164fb7f.js": "/smilecj521.reduxt/precache-manifest.4475d17b807e1f5bf65cf7c0f164fb7f.js",
+    "service-worker.js": "/smilecj521.reduxt/service-worker.js",
+    "static/css/main.7d198186.chunk.css.map": "/smilecj521.reduxt/static/css/main.7d198186.chunk.css.map"
   }
 }
