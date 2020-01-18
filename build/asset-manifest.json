@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/smilecj521.reduxt/static/css/main.7d198186.chunk.css",
-    "main.js": "/smilecj521.reduxt/static/js/main.c5d6177b.chunk.js",
-    "main.js.map": "/smilecj521.reduxt/static/js/main.c5d6177b.chunk.js.map",
+    "main.css": "/smilecj521.reduxt/static/css/main.88f47520.chunk.css",
+    "main.js": "/smilecj521.reduxt/static/js/main.602052cb.chunk.js",
+    "main.js.map": "/smilecj521.reduxt/static/js/main.602052cb.chunk.js.map",
     "runtime~main.js": "/smilecj521.reduxt/static/js/runtime~main.7ec4e7cc.js",
     "runtime~main.js.map": "/smilecj521.reduxt/static/js/runtime~main.7ec4e7cc.js.map",
-    "static/js/2.374d8ee3.chunk.js": "/smilecj521.reduxt/static/js/2.374d8ee3.chunk.js",
-    "static/js/2.374d8ee3.chunk.js.map": "/smilecj521.reduxt/static/js/2.374d8ee3.chunk.js.map",
+    "static/js/2.6af8c20d.chunk.js": "/smilecj521.reduxt/static/js/2.6af8c20d.chunk.js",
+    "static/js/2.6af8c20d.chunk.js.map": "/smilecj521.reduxt/static/js/2.6af8c20d.chunk.js.map",
     "index.html": "/smilecj521.reduxt/index.html",
-    "precache-manifest.8052099b681fd13b82521dcd99784eb9.js": "/smilecj521.reduxt/precache-manifest.8052099b681fd13b82521dcd99784eb9.js",
+    "precache-manifest.d49a8e0f36cc947949cb266acc2dddbf.js": "/smilecj521.reduxt/precache-manifest.d49a8e0f36cc947949cb266acc2dddbf.js",
     "service-worker.js": "/smilecj521.reduxt/service-worker.js",
-    "static/css/main.7d198186.chunk.css.map": "/smilecj521.reduxt/static/css/main.7d198186.chunk.css.map"
+    "static/css/main.88f47520.chunk.css.map": "/smilecj521.reduxt/static/css/main.88f47520.chunk.css.map"
   }
 }
